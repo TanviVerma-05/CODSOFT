@@ -1,7 +1,5 @@
 import random
-rock=1
-paper=2
-scissor=3
+
 
 print(  "1.rock\n 2.paper\n 3.scissor")
 
